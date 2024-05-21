@@ -95,6 +95,15 @@ Namespace My
                 Me("Language") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("6")>  _
+        Public ReadOnly Property minVersion() As String
+            Get
+                Return CType(Me("minVersion"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 

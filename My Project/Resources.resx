@@ -117,12 +117,86 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="access" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\access.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="access03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\access03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="accessxp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\accessxp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\Excel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="excel03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\excel03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="excelxp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\excelxp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frontpagexp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\frontpagexp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infopath" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\infopath.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infopath03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\infopath03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\..\..\..\Downloads\logo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="logosmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\..\..\..\Downloads\logosmall.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="onenote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\onenote.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="outlook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\outlook.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="outlook03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\outlook03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="outlookxp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\outlookxp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="powerpoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\powerpoint.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ppt03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\ppt03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pptxp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\pptxp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="project" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\project.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pub03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\pub03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="publisher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\publisher.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qtRegTable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\Documents\qtRegTable.csv;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sharepoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\sharepoint.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="visio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\visio.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="word" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\word.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="word03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\word03.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wordxp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>E:\software\quicktweaks\MSOffice\apps\apps\wordxp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
